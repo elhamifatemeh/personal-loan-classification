@@ -1,0 +1,20 @@
+# Core packages
+numpy
+pandas
+
+# Visualization
+matplotlib
+seaborn
+plotly
+folium
+branca
+
+# Machine learning and preprocessing
+scikit-learn
+
+# Scientific computing
+scipy
+
+# Jupyter tools
+jupyter
+ipython
